@@ -1,0 +1,21 @@
+2.create maven project in any IDE(eclipse or sts) or use spring initializer.and create class which is a entity with the name Employee by using bellow variables.
+	A.emp_id.
+	B.emp_name.
+	C.emp_salary.
+	D.emp_department.
+
+Use annotations instead of cofiguration file 
+
+create DAO layer for database operations.
+
+*emp-id has to be generated automatically.
+
+*"Employee" table has to be created  at the starting.
+
+1.Add employee records to the database .
+
+2.Delete specific record by  using emp_id.
+
+3.Search records by emp_name.
+
+4.Display all records from "Employee" table.

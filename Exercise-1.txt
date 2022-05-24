@@ -1,0 +1,22 @@
+1.create Maven project in eclipse or in any IDE(eclipse or sts) or use spring initializer.
+ -Create  entity class called "Students " by using following variables.
+	A.s_id
+	B.s_name
+	c.s-total marks
+	D.phone
+
+*s_id has to be generated automatically.
+
+*"students" table has to be created  automatically.
+
+*create Hibernate.cfg.xml file  to maintain database connections.
+
+please perform following operations
+
+	1.Add students records to the database .
+
+	2.Delete specific record by  using s_id.
+
+	3.Search records by s_name.
+
+	4.Display all records from "students" table.
